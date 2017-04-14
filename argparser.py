@@ -3,7 +3,6 @@ import argparse
 import commands
 import json
 import sys
-import signalfx
 
 def parse_args():
     parser = argparse.ArgumentParser(description="nsds")
